@@ -111,12 +111,6 @@ bank-statement-manager-colab/
 - Estados de cuenta en formato PDF
 - Al menos 500MB de espacio en disco
 
----
-
-## 🤝 Contribuciones
-
-¿Encontraste un bug? ¿Tienes sugerencias? 
-¡Abre un issue en GitHub!
 
 ---
 
